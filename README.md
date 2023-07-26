@@ -3,7 +3,12 @@
 
 <p>This project aims to highlight how powerful CSS grid is in building layouts.</p>
 
-<a href="https://windows-10-start-menu-rahil1202.netlify.app/">Live Preview</a>
+<a href="https://window10-start-menu-rahil1202.netlify.app/">Live Preview</a>
+
+## Technologies 
+
+HTML
+CSS
 
 ### **Resources**
 _Recommended resource links to check out if you're interested in this project_
